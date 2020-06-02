@@ -10,5 +10,6 @@ public class Practice {
         String hg = "new";
 
         System.out.println("fsdfs");
+        System.out.println("Another test");
     }
 }
