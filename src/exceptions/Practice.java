@@ -5,5 +5,8 @@ public class Practice {
         System.out.println("test");
 
         String s = "new";
+        String f = "new";
+        String h = "new";
+        String hg = "new";
     }
 }
