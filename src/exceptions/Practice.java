@@ -8,5 +8,7 @@ public class Practice {
         String f = "new";
         String h = "new";
         String hg = "new";
+
+        System.out.println("fsdfs");
     }
 }
