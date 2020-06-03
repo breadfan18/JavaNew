@@ -11,5 +11,6 @@ public class Practice {
 
         System.out.println("fsdfs");
         System.out.println("Another test");
+        System.out.println("Another test");
     }
 }
