@@ -1,6 +1,8 @@
 package exceptions;
 
-public class Practice {
+public class Practice extends Testing {
+
+
     public static void main(String[] args) {
         String totalString = getString("Hello", "Team");
 
