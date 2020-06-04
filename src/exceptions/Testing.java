@@ -1,4 +1,4 @@
 package exceptions;
 
-public class Testinga {
+public class Testing {
 }
