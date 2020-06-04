@@ -2,17 +2,15 @@ package exceptions;
 
 public class Practice {
     public static void main(String[] args) {
-        System.out.println("test");
+        String totalString = getString("Hello", "Team");
 
-        String s = "new";
-        String f = "new";
-        String h = "new";
-        String hg = "new";
+        System.out.println(totalString);
 
-        System.out.println("fsdfs");
-        System.out.println("Another test");
-        System.out.println("Another test");
-        System.out.println("Another test");
-        System.out.println("Another test");
     }
+
+    public static String getString (String a, String b) {
+     return a+b;
+    }
+
+
 }
