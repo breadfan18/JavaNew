@@ -17,5 +17,6 @@ public class Testing {
         testList.add(3);
         testList.add(3);
 
+        return testList;
     }
 }
