@@ -8,9 +8,6 @@ public class Practice {
 
     }
 
-    public static String getString (String a, String b) {
-     return a+b;
-    }
 
 
 }
