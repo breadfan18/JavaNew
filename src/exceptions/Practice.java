@@ -16,6 +16,7 @@ public class Practice {
         }
 
         System.out.println("Code moves on");
+        System.out.println("Code moves on");
 
     }
 
