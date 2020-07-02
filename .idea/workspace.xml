@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="" />
+    <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/821a15d0990a408eb8f654d67cc407524c75ffd8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/821a15d0990a408eb8f654d67cc407524c75ffd8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +100,10 @@
       <workItem from="1591714869999" duration="561000" />
       <workItem from="1591795179865" duration="805000" />
       <workItem from="1592403216872" duration="966000" />
+      <workItem from="1593450778476" duration="431000" />
+      <workItem from="1593525364291" duration="865000" />
+      <workItem from="1593609344318" duration="391000" />
+      <workItem from="1593715890176" duration="88000" />
     </task>
     <servers />
   </component>
