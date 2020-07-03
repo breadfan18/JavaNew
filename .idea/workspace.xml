@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newPractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.Main" />
+      <module name="JavaNew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptions.Practice" />
       <module name="JavaNew" />
@@ -76,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
@@ -104,6 +119,7 @@
       <workItem from="1593609344318" duration="391000" />
       <workItem from="1593715890176" duration="88000" />
       <workItem from="1593722589434" duration="33000" />
+      <workItem from="1593722873207" duration="974000" />
     </task>
     <servers />
   </component>
