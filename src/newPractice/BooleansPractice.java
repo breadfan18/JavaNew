@@ -13,6 +13,9 @@ public class BooleansPractice {
 
         boolean b4 = (i1 != 0);
         System.out.println(b4);
+
+        String string = new String("Hello");
+        System.out.println(string);
     }
 
 }

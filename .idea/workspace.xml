@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newPractice/BooleansPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newPractice/MathPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newPractice/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/PrimitiveDataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newPractice/BooleansPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/BooleansPractice.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +148,8 @@
       <workItem from="1593609344318" duration="391000" />
       <workItem from="1593715890176" duration="88000" />
       <workItem from="1593722589434" duration="33000" />
-      <workItem from="1593722873207" duration="2153000" />
+      <workItem from="1593722873207" duration="2749000" />
+      <workItem from="1593756269592" duration="489000" />
     </task>
     <servers />
   </component>
