@@ -1,6 +1,6 @@
 package newPractice;
 
-public class Main {
+public class PrimitiveDataTypes {
 
     public static void main(String[] args) {
 
