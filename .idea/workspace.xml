@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newPractice/FormatNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newPractice/strings/CompareStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newPractice/strings/ParsingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newPractice/DatesAndTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleCalculator/Calc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newPractice/strings/ParsingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/strings/ParsingStrings.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +64,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FormatNumbers">
+  <component name="RunManager" selected="Application.Calc">
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleCalculator.Calc" />
+      <module name="JavaNew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleCalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CompareStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newPractice.strings.CompareStrings" />
       <module name="JavaNew" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="newPractice.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatesAndTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.DatesAndTimes" />
+      <module name="JavaNew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,34 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.MathPractice" />
-      <module name="JavaNew" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.strings.StringBuilderTest" />
-      <module name="JavaNew" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newPractice.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.strings.StringPractice" />
+    <configuration name="ParsingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.strings.ParsingStrings" />
       <module name="JavaNew" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calc" />
+        <item itemvalue="Application.DatesAndTimes" />
+        <item itemvalue="Application.ParsingStrings" />
         <item itemvalue="Application.FormatNumbers" />
         <item itemvalue="Application.CompareStrings" />
-        <item itemvalue="Application.StringBuilderTest" />
-        <item itemvalue="Application.MathPractice" />
-        <item itemvalue="Application.StringPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,7 @@
       <workItem from="1593722589434" duration="33000" />
       <workItem from="1593722873207" duration="2749000" />
       <workItem from="1593756269592" duration="1376000" />
-      <workItem from="1593902491028" duration="2730000" />
+      <workItem from="1593902491028" duration="4777000" />
     </task>
     <servers />
   </component>
