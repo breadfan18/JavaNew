@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/newPractice/ConditionsExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/newPractice/exceptions/StringExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/exceptions/StringExceptions.java" afterDir="false" />
     </list>
@@ -62,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringExceptions">
+  <component name="RunManager" selected="Application.ConditionsExamples">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleCalculator.Calc" />
       <module name="JavaNew" />
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatesAndTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.DatesAndTimes" />
+    <configuration name="ConditionsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.ConditionsExamples" />
       <module name="JavaNew" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormatNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.FormatNumbers" />
+    <configuration name="DatesAndTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.DatesAndTimes" />
       <module name="JavaNew" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConditionsExamples" />
         <item itemvalue="Application.StringExceptions" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.DatesAndTimes" />
         <item itemvalue="Application.ParsingStrings" />
-        <item itemvalue="Application.FormatNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +166,7 @@
       <workItem from="1593722873207" duration="2749000" />
       <workItem from="1593756269592" duration="1376000" />
       <workItem from="1593902491028" duration="5156000" />
-      <workItem from="1593909768880" duration="2823000" />
+      <workItem from="1593909768880" duration="3446000" />
     </task>
     <servers />
   </component>
