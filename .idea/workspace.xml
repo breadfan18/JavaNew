@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newPractice/ConditionsExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newPractice/exceptions/StringExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/exceptions/StringExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newPractice/loops/LoopingLikeABoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/loops/LoopingLikeABoss.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConditionsExamples">
+  <component name="RunManager" selected="Application.LoopingLikeABoss">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleCalculator.Calc" />
       <module name="JavaNew" />
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParsingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.strings.ParsingStrings" />
+    <configuration name="LoopingLikeABoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.loops.LoopingLikeABoss" />
       <module name="JavaNew" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="newPractice.strings.*" />
+          <option name="PATTERN" value="newPractice.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopingLikeABoss" />
         <item itemvalue="Application.ConditionsExamples" />
         <item itemvalue="Application.StringExceptions" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.DatesAndTimes" />
-        <item itemvalue="Application.ParsingStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +165,7 @@
       <workItem from="1593722873207" duration="2749000" />
       <workItem from="1593756269592" duration="1376000" />
       <workItem from="1593902491028" duration="5156000" />
-      <workItem from="1593909768880" duration="3446000" />
+      <workItem from="1593909768880" duration="5303000" />
     </task>
     <servers />
   </component>
