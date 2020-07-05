@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/newPractice/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleCalculator/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleCalculator/Calc.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodOverloading">
+  <component name="RunManager" selected="Application.Calc">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleCalculator.Calc" />
       <module name="JavaNew" />
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calc" />
         <item itemvalue="Application.MethodOverloading" />
         <item itemvalue="Application.LoopingLikeABoss" />
         <item itemvalue="Application.ConditionsExamples" />
         <item itemvalue="Application.StringExceptions" />
-        <item itemvalue="Application.Calc" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,7 @@
       <workItem from="1593722873207" duration="2749000" />
       <workItem from="1593756269592" duration="1376000" />
       <workItem from="1593902491028" duration="5156000" />
-      <workItem from="1593909768880" duration="6425000" />
+      <workItem from="1593909768880" duration="9497000" />
     </task>
     <servers />
   </component>
