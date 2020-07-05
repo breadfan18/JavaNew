@@ -3,11 +3,20 @@ package newPractice.exceptions;
 public class StringExceptions {
 
     public static void main(String[] args) {
-        String welcome = "Welcome";
+        String welcome = "Welcome!";
         char[] chars = welcome.toCharArray();
 
-        for (int i = 0; i <chars.length; i++) {
-            System.out.println(chars[i]);
+        try {
+            char lastChar = chars[chars.length-1];
+            System.out.println(lastChar);
+
+            String sub = welcome.substring(10);
+
+        } catch (ArrayIndexOutOfBoundsException e) {
+//            e.printStackTrace();
+            System.out.println("Array Index problem!!");
+        } catch (StringIndexOutOfBoundsException e){
+            System.out.println("Substring Indexing problem");
         }
     }
 
