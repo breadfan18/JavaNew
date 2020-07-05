@@ -1,11 +1,14 @@
 package newPractice.loops;
 
+import java.awt.*;
+
 public class LoopingLikeABoss {
 
     static String[] months = {"Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug",
             "Sept", "Oct", "Nov", "Dec"};
 
     public static void main(String[] args) {
+
 
 
 //        for (int i = months.length-1; i >=0; i--) {
@@ -22,13 +25,20 @@ public class LoopingLikeABoss {
 //            counter++;
 //        }
 
-        loopIt();
+        loopIt("This is the label");
+        loopIt("Second Run");
+        loopIt("Third run");
 
 
     }
 
-    static void loopIt(){
+    static void loopIt(String label){
         int counter = 0;
+        System.out.println(label);
+        for (int i = 0; i < label.length(); i++) {
+            System.out.print("*");
+        }
+        System.out.println();
 
         do {
             System.out.println(months[counter]);
