@@ -12,18 +12,30 @@ public class MethodOverloading {
 
         double result = addValues(s1, s2);
         System.out.println("The total is: " + result);
+
+        double result2 = addValues(s1, s2, s1, s2, s1, s2);
+        System.out.println("The extra total is: " + result2);
     }
 
-    static String getInput(String inputText){
+    static String getInput(String inputText) {
         System.out.println(inputText);
         Scanner sc = new Scanner(System.in);
         return sc.next();
     }
 
-    static double addValues(String a, String b){
+    static double addValues(String a, String b) {
         double d1 = Double.parseDouble(a);
         double d2 = Double.parseDouble(b);
 
-        return d1+d2;
+        return d1 + d2;
+    }
+
+    static double addValues(String ...values){
+        double result = 0;
+        for (String value: values) {
+            double d = Double.parseDouble(value);
+            result += d;
+        }
+        return result;
     }
 }

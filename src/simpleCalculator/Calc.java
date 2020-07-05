@@ -8,13 +8,13 @@ public class Calc {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Enter number 1: ");
+        System.out.print("Enter numeric value 1: ");
         double number1 = scan.nextDouble();
 
-        System.out.print("Enter number 2: ");
+        System.out.print("Enter numeric value 2: ");
         double number2 = scan.nextDouble();
 
-        System.out.print("Select calculation: ");
+        System.out.print("Choose an operation  (+ -  * /): ");
         String operation = scan.next();
 
         switch (operation){
@@ -29,8 +29,6 @@ public class Calc {
                 break;
             case "/":
                 System.out.println("The answer is: " + divide(number1, number2));
-            default:
-                System.out.println("Not a valid operand");
         }
     }
 
