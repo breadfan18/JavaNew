@@ -13,9 +13,10 @@ public class Calc {
     }
 
     protected void calculate() {
-        String number1 =  getInput("Enter number 1: ");
-        String number2 =  getInput("Enter number 2: ");
-        String operation = getInput("Choose an operation  (+ -  * /): ");
+        InputHelper helper = new InputHelper();
+        String number1 =  helper.getInput("Enter number 1: ");
+        String number2 =  helper.getInput("Enter number 2: ");
+        String operation = helper.getInput("Choose an operation  (+ -  * /): ");
 
         double result = 0;
 
@@ -43,11 +44,16 @@ public class Calc {
         }
     }
 
-    private static String getInput(String prompt){
-        Scanner scan = new Scanner(System.in);
-        System.out.print(prompt);
-        return scan.next();
+    class InputHelper {
+        private String getInput(String prompt){
+            Scanner scan = new Scanner(System.in);
+            System.out.print(prompt);
+            return scan.next();
+        }
+
     }
+
+
 
 
 }

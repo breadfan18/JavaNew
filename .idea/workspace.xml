@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleCalculator/utilities/MathHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/simpleCalculator/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleCalculator/Calc.java" afterDir="false" />
     </list>
@@ -34,6 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="protected" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -167,7 +167,7 @@
       <workItem from="1593756269592" duration="1376000" />
       <workItem from="1593902491028" duration="5156000" />
       <workItem from="1593909768880" duration="15538000" />
-      <workItem from="1594071514993" duration="639000" />
+      <workItem from="1594071514993" duration="954000" />
     </task>
     <servers />
   </component>
