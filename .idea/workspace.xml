@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/newPractice/collections/MultiDimArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/collections/MultiDimArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newPractice/collections/HashmapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newPractice/collections/ListsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/collections/ListsExamples.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiDimArrays">
+  <component name="RunManager" selected="Application.HashmapExample">
     <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newPractice.collections.ArraysExample" />
       <module name="JavaNew" />
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopingLikeABoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.loops.LoopingLikeABoss" />
+    <configuration name="HashmapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.collections.HashmapExample" />
       <module name="JavaNew" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="newPractice.loops.*" />
+          <option name="PATTERN" value="newPractice.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.MethodOverloading" />
+    <configuration name="ListsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.collections.ListsExamples" />
       <module name="JavaNew" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="newPractice.*" />
+          <option name="PATTERN" value="newPractice.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashmapExample" />
+        <item itemvalue="Application.ListsExamples" />
         <item itemvalue="Application.MultiDimArrays" />
         <item itemvalue="Application.ArraysExample" />
         <item itemvalue="Application.Calc" />
-        <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.LoopingLikeABoss" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +166,7 @@
       <workItem from="1593722873207" duration="2749000" />
       <workItem from="1593756269592" duration="1376000" />
       <workItem from="1593902491028" duration="5156000" />
-      <workItem from="1593909768880" duration="11448000" />
+      <workItem from="1593909768880" duration="14265000" />
     </task>
     <servers />
   </component>
