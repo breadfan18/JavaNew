@@ -2,9 +2,17 @@ package olivePress.model;
 
 public class Olive {
 
-    public String name = "Kalamata";
-    public long color = 0x2E0854;
-    public int oil  = 3;
+    private String name = "Kalamata";
+    private long color = 0x2E0854;
+    private int oil  = 3;
+
+    public Olive(){}
+
+    public Olive(String name, long color, int oil){
+        this.name = name;
+        this.color = color;
+        this.oil = oil;
+    }
 
     public String getName() {
         return name;
@@ -22,7 +30,8 @@ public class Olive {
         this.color = color;
     }
 
-    public int getOil() {
+    public int crush() {
+        System.out.println("Ouch");
         return oil;
     }
 
