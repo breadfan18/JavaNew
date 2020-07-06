@@ -44,7 +44,7 @@ public class Calc {
         }
     }
 
-    class InputHelper {
+    private class InputHelper {
         private String getInput(String prompt){
             Scanner scan = new Scanner(System.in);
             System.out.print(prompt);
