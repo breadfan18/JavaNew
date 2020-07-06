@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/olivePress/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/olivePress/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/olivePress/OlivePress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/olivePress/OlivePress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/olivePress/model/Olive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/olivePress/model/Olive.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +168,7 @@
       <workItem from="1593756269592" duration="1376000" />
       <workItem from="1593902491028" duration="5156000" />
       <workItem from="1593909768880" duration="15538000" />
-      <workItem from="1594071514993" duration="3227000" />
+      <workItem from="1594071514993" duration="3787000" />
     </task>
     <servers />
   </component>

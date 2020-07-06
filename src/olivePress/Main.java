@@ -10,15 +10,13 @@ public class Main {
     public static void main(String[] args) {
         List<Olive> olives  = new ArrayList<>();
 
-        Olive olive1 = new Olive();
-        olives.add(olive1);
-        Olive olive2 = new Olive();
-        olive2.setOil(2);
-        olives.add(olive2);
-        Olive olive3 = new Olive();
-        olive3.setOil(8);
-        olive3.setName("Wazza");
-        olives.add(olive3);
+        olives.add(new Olive(Olive.KALAMATA, 0x2E0854, 3));
+        olives.add(new Olive(Olive.KALAMATA, 0x2E0854, 3));
+        olives.add(new Olive(Olive.KALAMATA, 0x2E0854, 3));
+        olives.add(new Olive(Olive.KALAMATA, 0x2E0854, 3));
+        olives.add(new Olive(Olive.LIGURIAN, 0x2E0833, 2));
+        olives.add(new Olive(Olive.LIGURIAN, 0x2E0833, 2));
+        olives.add(new Olive(Olive.LIGURIAN, 0x2E0833, 2));
 
         OlivePress press = new OlivePress();
         int totalOil = press.getOil(olives);

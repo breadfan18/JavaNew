@@ -1,8 +1,10 @@
 package olivePress.model;
 
 public class Olive {
+    public static final String KALAMATA = "Kalamata";
+    public static final String LIGURIAN = "Ligurian";
 
-    private String name = "Kalamata";
+    private String name = KALAMATA;
     private long color = 0x2E0854;
     private int oil  = 3;
 
@@ -31,7 +33,6 @@ public class Olive {
     }
 
     public int crush() {
-        System.out.println("Ouch");
         return oil;
     }
 
