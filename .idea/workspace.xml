@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newPractice/collections/HashmapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleCalculator/utilities/MathHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newPractice/collections/ListsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newPractice/collections/ListsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleCalculator/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleCalculator/Calc.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashmapExample">
+  <component name="RunManager" selected="Application.Calc">
     <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newPractice.collections.ArraysExample" />
       <module name="JavaNew" />
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calc" />
         <item itemvalue="Application.HashmapExample" />
         <item itemvalue="Application.ListsExamples" />
         <item itemvalue="Application.MultiDimArrays" />
         <item itemvalue="Application.ArraysExample" />
-        <item itemvalue="Application.Calc" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,8 @@
       <workItem from="1593722873207" duration="2749000" />
       <workItem from="1593756269592" duration="1376000" />
       <workItem from="1593902491028" duration="5156000" />
-      <workItem from="1593909768880" duration="14265000" />
+      <workItem from="1593909768880" duration="15538000" />
+      <workItem from="1594071514993" duration="639000" />
     </task>
     <servers />
   </component>

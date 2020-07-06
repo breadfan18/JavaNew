@@ -1,31 +1,37 @@
 package simpleCalculator;
 
+import simpleCalculator.utilities.MathHelper;
+
 import java.util.Scanner;
 
 public class Calc {
 
 
     public static void main(String[] args) {
+        Calc calc =  new Calc();
+        calc.calculate();
+    }
 
-            String number1 =  getInput("Enter number 1: ");
-            String number2 =  getInput("Enter number 2: ");
-            String operation = getInput("Choose an operation  (+ -  * /): ");
+    protected void calculate() {
+        String number1 =  getInput("Enter number 1: ");
+        String number2 =  getInput("Enter number 2: ");
+        String operation = getInput("Choose an operation  (+ -  * /): ");
 
-            double result = 0;
+        double result = 0;
 
         try {
             switch (operation) {
                 case "+":
-                    result =  add(number1, number2);
+                    result = MathHelper.add(number1, number2);
                     break;
                 case "-":
-                    result = subtract(number1, number2);
+                    result = MathHelper.subtract(number1, number2);
                     break;
                 case "*":
-                    result = multiply(number1, number2);
+                    result = MathHelper.multiply(number1, number2);
                     break;
                 case "/":
-                    result = divide(number1, number2);
+                    result = MathHelper.divide(number1, number2);
                     break;
                 default:
                     System.out.println("Unrecognized operation");
@@ -37,31 +43,10 @@ public class Calc {
         }
     }
 
-    private static double add (String a, String b) {
-        double d1 = Double.parseDouble(a);
-        double d2 = Double.parseDouble(b);
-        return d1+d2;
-    }
-
-    private static double subtract (String a, String b) {
-        double d1 = Double.parseDouble(a);
-        double d2 = Double.parseDouble(b);
-        return d1-d2;    }
-
-    private static double multiply (String a, String b) {
-        double d1 = Double.parseDouble(a);
-        double d2 = Double.parseDouble(b);
-        return d1*d2;    }
-
-    private static double divide (String a, String b) {
-        double d1 = Double.parseDouble(a);
-        double d2 = Double.parseDouble(b);
-        return d1/d2;    }
-
     private static String getInput(String prompt){
-            Scanner scan = new Scanner(System.in);
-            System.out.print(prompt);
-            return scan.next();
+        Scanner scan = new Scanner(System.in);
+        System.out.print(prompt);
+        return scan.next();
     }
 
 
