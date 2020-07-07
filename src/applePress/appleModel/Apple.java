@@ -2,23 +2,30 @@ package applePress.appleModel;
 
 public class Apple {
 
-    private String name;
-    private String color;
+    private AppleName name;
+    private AppleColor color;
     private int yield;
 
-    public String getName() {
+
+    public Apple(AppleName name, AppleColor color, int yield){
+        this.name = name;
+        this.color = color;
+        this.yield = yield;
+    }
+
+    public AppleName getName() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setName(AppleName name) {
         this.name = name;
     }
 
-    public String getColor() {
+    public AppleColor getColor() {
         return color;
     }
 
-    public void setColor(String color) {
+    public void setColor(AppleColor color) {
         this.color = color;
     }
 
