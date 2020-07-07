@@ -10,4 +10,9 @@ public enum AppleColor {
     AppleColor(String color) {
         this.color = color;
     }
+
+    @Override
+    public String toString() {
+        return color;
+    }
 }

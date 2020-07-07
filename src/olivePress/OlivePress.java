@@ -14,7 +14,6 @@ public class OlivePress implements Press {
             System.out.println(o.getName() + ": " + o.crush() + " units") ;
             totalOil+= o.crush();
         }
-
         return totalOil;
     }
 

@@ -4,9 +4,15 @@ public enum AppleName {
    FUJI("Fuji"),
     RED_DELICIOUS("Red Delicious");
 
-   private String name;
+    private String name;
 
     AppleName(String name) {
         this.name = name;
+    }
+
+
+    @Override
+    public String toString() {
+        return name;
     }
 }
