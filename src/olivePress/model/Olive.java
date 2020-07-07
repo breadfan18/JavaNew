@@ -1,6 +1,8 @@
 package olivePress.model;
 
 
+import java.util.List;
+
 public class Olive {
 
     private OliveName name;
@@ -36,6 +38,8 @@ public class Olive {
     public void setOil(int oil) {
         this.oil = oil;
     }
+
+
 
 
 
