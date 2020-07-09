@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e8934a-4c99-4276-a212-fcc170ccf29f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/applePress/AppleWinePress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applePress/appleModel/Fuji.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applePress/appleModel/RedDelicious.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newPractice/MutiplicationTab.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applePress/AppleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applePress/AppleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applePress/appleModel/AppleColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applePress/appleModel/AppleColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applePress/appleModel/AppleName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applePress/appleModel/AppleName.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +46,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -70,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppleMain">
+  <component name="RunManager" selected="Application.MutiplicationTab">
     <configuration name="AppleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="applePress.AppleMain" />
       <module name="JavaNew" />
@@ -110,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newPractice.collections.ListsExamples" />
-      <module name="JavaNew" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newPractice.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="olivePress.Main" />
       <module name="JavaNew" />
@@ -136,13 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MutiplicationTab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPractice.MutiplicationTab" />
+      <module name="JavaNew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MutiplicationTab" />
         <item itemvalue="Application.AppleMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.HashmapExample" />
-        <item itemvalue="Application.ListsExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +175,7 @@
       <workItem from="1594159509124" duration="2620000" />
       <workItem from="1594162994925" duration="95000" />
       <workItem from="1594163142745" duration="33000" />
-      <workItem from="1594163201730" duration="311000" />
+      <workItem from="1594163201730" duration="3156000" />
     </task>
     <servers />
   </component>
