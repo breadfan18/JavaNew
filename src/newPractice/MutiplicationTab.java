@@ -14,6 +14,7 @@ public class MutiplicationTab {
 
             for (int i = 1; i <= 10; i++) {
                 System.out.println(selectedNum + "x" + i + " = " + selectedNum * i);
+
             }
 
 
